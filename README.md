@@ -9,4 +9,4 @@ Test step | Expected result
 3.Click 'edit profile'button|3.The 'edit profile'button becomes 'done editing' and active. The 'index card' is editable.
 4.Click on the pensil in the place for photo|4.The folder with files opens on user's computer
 5.Choose your photo|6.The user's photo is chosen
-6.Click on 'done editing'|6.User's account has photo
+6.Click on 'done editing'|6.The user's account has photo
