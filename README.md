@@ -18,10 +18,9 @@ Test case#2
 </pre>
 Test step | Expected result
 ----------|----------------  
-1.Go to https://www.6pm.com|1.
-2.Click on 'sign up now' for the subcribing to 6pm emails|2.The dialog window  and reCaptcha form appear 
-3.Insert your valid email address and click 'sign up'|
-4.Check the box in the recaptcha form|4.You are now signed to receive offers. There is a link to homepage and link to email customer team. Sign up is successfull.
-5.Check out your email|6.The letter with mail subscription is sent to your  email.
+1.Go to https://www.6pm.com |1.The homepage is opened.
+2.Click on 'sign up now' for the subcribing to 6pm emails|2.The sign up form appears (with reCaptcha)
+3.Insert your valid email address, input captcha answer and click 'sign up'|3.The message "Thank You! You are now signed up to receive offers and specials from 6pm.com." appears. Sign up is successfull.
+5.Check out your email|5.The letter with mail subscription was sent to your  email.
 
   
